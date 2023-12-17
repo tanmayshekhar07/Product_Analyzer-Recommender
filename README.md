@@ -40,4 +40,5 @@ Use the Final.ipynb notebook for a detailed walkthrough of the data processing, 
 Launch the Streamlit app for a practical application of the recommendation system and sentiment analysis.
 License
 
-## This project is licensed under the MIT License - see the LICENSE.md file for details.
+## This project is licensed under the MIT License 
+- see the LICENSE.md file for details.
