@@ -17,7 +17,7 @@ app.py: A Streamlit-based web application that allows users to interact with the
 Key Features
 
 
-## Recommendation System:
+### Recommendation System:
 We used two main methods or metrics on which we built our Recommendation models and those were Cosine similarity and Word2Vec.
 ● Similarity Matrix: We computed a cosine similarity matrix from the TF-IDF vectors. This similarity matrix quantifies the likeness between products based on their names.
 ● Function Design: A function was created that takes a product name as input and returns a list of top similar products based on cosine similarity scores from the TF-IDF vectors.
@@ -47,7 +47,7 @@ Run the Jupyter Notebook (Final.ipynb) to understand the logic behind the recomm
 Launch the Streamlit app (app.py) to interact with the system.
 Usage
 
-## Comclusion: 
+## Conclusion: 
 The sentiment analysis project aimed at dissecting cell phone reviews from Amazon has provided substantial insights into the application of machine learning and deep learning models in NLP tasks. The comprehensive journey from data acquisition through preprocessing to modeling and evaluation has underscored the intricate challenges and considerations inherent in sentiment analysis.
 
 ## Achievements: 
