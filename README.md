@@ -20,8 +20,11 @@ Key Features
 ### Recommendation System:
 We used two main methods or metrics on which we built our Recommendation models and those were Cosine similarity and Word2Vec.
 ● Similarity Matrix: We computed a cosine similarity matrix from the TF-IDF vectors. This similarity matrix quantifies the likeness between products based on their names.
+
 ● Function Design: A function was created that takes a product name as input and returns a list of top similar products based on cosine similarity scores from the TF-IDF vectors.
+
 ● Word2Vec Based Model Implementation: A Word2Vec model was trained on the tokenized product names to capture semantic relationships in the text.
+
 ● The recommendation function was further revised to work with the Word2Vec-based features, providing recommendations that consider both textual semantics and price.
 
 After Performing the Sentiment Analysis to our Dataset we added a column labelled as Sentiment and our main goal with this column was to provide the user with a Sentiment Count graph of the product of his/her choice which would help the user decide if the product is worth buying or no.
